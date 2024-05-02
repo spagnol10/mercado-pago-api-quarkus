@@ -12,6 +12,7 @@ public class PixMapper {
     dto.setAmount(bo.getAmount());
     dto.setEmail(bo.getEmail());
     dto.setDescription(bo.getDescription());
+    dto.setEmv(bo.getEmv());
     dto.setBase64(bo.getBase64());
     dto.setExpiration(bo.getExpiration());
 
